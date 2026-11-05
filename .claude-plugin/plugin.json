@@ -1,0 +1,10 @@
+{
+  "name": "company-logos",
+  "description": "Fetch official company and brand logos as SVG: the company's own website first, then a 1,432-brand SVG library, local-language and English Wikipedia, Wikidata and Iconify. Strong on local and regional companies that global logo libraries miss. Never redraws a logo.",
+  "version": "1.0.0",
+  "author": { "name": "Eilon Gross", "url": "https://github.com/eilongross" },
+  "homepage": "https://github.com/eilongross/company-logos-skill",
+  "repository": "https://github.com/eilongross/company-logos-skill",
+  "license": "MIT",
+  "keywords": ["company-logos", "claude-skill", "agent-skills", "brand-assets", "logo", "brand", "svg", "wikipedia", "local-markets", "multilingual", "design"]
+}
